@@ -1,0 +1,28 @@
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  th{
+    background-color: rgba(17, 63, 116, 0.8);
+  }
+
+  tr{
+    cursor: pointer;
+  }
+  
+
+  td, th {
+    border: none;
+    text-align: left;
+    padding: 15px;
+    margin: 2px;
+
+  }
+
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  

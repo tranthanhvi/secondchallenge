@@ -1,0 +1,14 @@
+.weekOptions {
+    margin: 2em 0;
+}
+
+
+#weekSelect {
+    padding: 0.5em 1em; 
+    margin-left: 1em;
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    cursor: pointer;
+}
+
+
